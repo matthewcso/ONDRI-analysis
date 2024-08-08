@@ -1,0 +1,9 @@
+atlas
+data
+outputs
+unused
+client_secrets.json
+credentials.txt
+temp.sh
+HD-BET
+*.pyc
